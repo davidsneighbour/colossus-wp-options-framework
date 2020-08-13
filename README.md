@@ -40,7 +40,7 @@ Colossus WP Options Framework (aka Colossus WP) allows theme and plugin develope
 
 ## Installing
 
-1. You can install the latest stable release from the [wordpress.org plugin page](https://wordpress.org/plugins/colossus-wp-options-fram>>>>>>> masterework/) straight from your WordPress plugin page; <-- Coming Soon!
+1. You can install the latest stable release from the [wordpress.org plugin page](https://wordpress.org/plugins/colossus-wp-options-framework/) straight from your WordPress plugin page; <-- Coming Soon!
 
 <!--
 2. Or you can download the [master.zip file](https://github.com/gambitph/Titan-Framework/archive/master.zip) then install it as a WordPress plugin;
@@ -57,7 +57,7 @@ php composer.phar create-project gambitph/titan-framework titan-framework
 
 If you want to help with the development of Titan Framework, we have a [Developing guide in the wiki](https://github.com/davidsneighbour/colossus-wp-options-framework/wiki/Developing)
 
-<!-->>>>>>> master
+<!--
 ## Creating a WordPress Theme?
 
 [Generate your own Underscores + Titan Framework based WordPress theme](http://www.titanframework.net)
