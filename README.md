@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Build Status](https://travis-ci.com/davidsneighbour/colossus-wp-options-framework.svg?branch=master)](https://travis-ci.com/davidsneighbour/colossus-wp-options-framework)
                                    
@@ -115,6 +115,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://codeclinic.de"><img src="https://avatars3.githubusercontent.com/u/6069510?v=4" width="100px;" alt=""/><br /><sub><b>Phill Healey</b></sub></a><br /><a href="https://github.com/davidsneighbour/colossus-wp-options-framework/issues?q=author%3Acodeclinic" title="Bug reports">🐛</a> <a href="#ideas-codeclinic" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-codeclinic" title="Answering Questions">💬</a></td>
+  </tr>
+</table>
+
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
