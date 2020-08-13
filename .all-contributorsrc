@@ -39,6 +39,15 @@
       "contributions": [
         "maintainer"
       ]
+    },
+    {
+      "login": "pagelab",
+      "name": "Marcio Duarte",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1451087?v=4",
+      "profile": "https://www.uberfacil.com",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "types": {
