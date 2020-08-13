@@ -19,6 +19,27 @@
         "bug",
         "ideas",
         "question"
+        ]
+        },{
+      "login": "davidsneighbour",
+      "name": "Patrick Kollitsch",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/83281?v=4",
+      "profile": "https://davids-neighbour.com",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "design",
+        "ideas",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "question",
+        "review",
+        "security",
+        "test"
+
       ]
     }
   ],
