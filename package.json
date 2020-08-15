@@ -90,7 +90,7 @@
     "gulp-wp-pot": "1.0.3",
     "gulp-zip": "3.0.2",
     "jshint-stylish": "2.0.1",
-    "merge-stream": "1.0.0"
+    "merge-stream": "2.0.0"
   },
   "config": {
     "commitizen": {
