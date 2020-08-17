@@ -70,7 +70,7 @@
     "gulp-group-css-media-queries": "1.2.2",
     "gulp-if": "1.2.5",
     "gulp-ignore": "1.2.1",
-    "gulp-imagemin": "2.3.0",
+    "gulp-imagemin": "7.1.0",
     "gulp-include": "2.0.2",
     "gulp-jshint": "1.12.0",
     "gulp-minify-css": "1.2.4",
