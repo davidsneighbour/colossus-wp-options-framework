@@ -85,7 +85,7 @@
     "gulp-shell": "0.8.0",
     "gulp-sort": "1.1.1",
     "gulp-sourcemaps": "1.5.2",
-    "gulp-uglify": "1.4.0",
+    "gulp-uglify": "3.0.2",
     "gulp-watch": "4.3.5",
     "gulp-wp-pot": "1.0.3",
     "gulp-zip": "3.0.2",
